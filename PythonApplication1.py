@@ -5,7 +5,7 @@ import pandas as pd;
 import csv
 import itertools
 
-print("heloo")
+
 DataFile = open('groceries2.csv', 'r')
 minsup = 0.03
 f2 = "Rules.txt"
